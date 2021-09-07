@@ -8,3 +8,7 @@ While Home Credit is currently using various statistical and machine learning me
 
 ## Datasets
 ![homecredit2](https://user-images.githubusercontent.com/87808313/132359288-a9f76abd-c02d-4b3c-ac52-5bd0325d3bc4.png)
+
+
+## Kaggle:
+https://www.kaggle.com/haticeebraralc/homecredit-default-risk
